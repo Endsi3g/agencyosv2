@@ -1,0 +1,35 @@
+language: "en-US"
+early_access: false
+reviews:
+  profile: "chill"
+  request_changes_workflow: false
+  high_level_summary: true
+  auto_review:
+    enabled: true
+    ignore_title_keywords:
+      - "WIP"
+      - "Dont merge"
+  drafts: false
+chat:
+  auto_reply: true
+includes:
+  - "**/*.ts"
+  - "**/*.tsx"
+  - "**/*.js"
+  - "**/*.jsx"
+  - "**/*.css"
+  - "README.md"
+  - "prisma/schema.prisma"
+  - "**/*.json"
+excludes:
+  - "**/node_modules/**"
+  - "**/dist/**"
+  - "**/build/**"
+  - "**/coverage/**"
+  - "**/.next/**"
+  - "**/package-lock.json"
+  - "**/yarn.lock"
+  - "**/*.min.js"
+  - "**/*.map"
+  - "**/prisma/migrations/**"
+  - "**/.git/**"
