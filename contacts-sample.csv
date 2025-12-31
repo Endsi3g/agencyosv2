@@ -1,0 +1,3 @@
+email,firstName,lastName,company,jobTitle,phone,status,source
+test1@example.com,Jean,Dupont,Test Corp,CEO,+33600000001,LEAD,IMPORT
+test2@example.com,Marie,Curie,Science Lab,Researcher,+33600000002,CLIENT,LINKEDIN

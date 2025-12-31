@@ -1,0 +1,17 @@
+{
+    "default": true,
+    "MD032": false,
+    "MD031": false,
+    "MD036": false,
+    "MD041": false,
+    "MD051": false,
+    "MD060": false,
+    "MD024": {
+        "siblings_only": true
+    },
+    "MD040": false,
+    "MD050": {
+        "strong_style": "consistent"
+    },
+    "line-length": false
+}

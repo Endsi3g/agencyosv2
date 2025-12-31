@@ -2017,7 +2017,7 @@ Can you:
 2. Suggest 3 optimization strategies (ranked by impact)
 3. Implement the best approach with complete code
 4. Explain the performance improvement (X% faster)
-5. Provide testing code to measure improvements
+5. Provide testing code to measure improvements 
 
 Context: The app loads [NUMBER] contacts/records at once. React is [RENDERING APPROACH]. Database queries [DESCRIBE CURRENT QUERIES].
 
