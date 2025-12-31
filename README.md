@@ -149,3 +149,4 @@ crm-app/
 <p align="center">
   Built with ❤️ using Next.js and TypeScript
 </p>
+.
