@@ -1,5 +1,4 @@
 language: "en-US"
-early_access: false
 reviews:
   profile: "chill"
   request_changes_workflow: false
@@ -12,15 +11,6 @@ reviews:
   drafts: false
 chat:
   auto_reply: true
-includes:
-  - "**/*.ts"
-  - "**/*.tsx"
-  - "**/*.js"
-  - "**/*.jsx"
-  - "**/*.css"
-  - "README.md"
-  - "prisma/schema.prisma"
-  - "**/*.json"
 excludes:
   - "**/node_modules/**"
   - "**/dist/**"
